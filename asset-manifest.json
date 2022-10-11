@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Alina-Gilmutdinova/netology-train-diplom/static/css/main.8f00a9b9.css",
-    "main.js": "/Alina-Gilmutdinova/netology-train-diplom/static/js/main.268a5f5c.js",
-    "static/media/image_logo_final_order.png": "/Alina-Gilmutdinova/netology-train-diplom/static/media/image_logo_final_order.7d2d24204fae0efe3c71.png",
-    "static/media/image_logo1.png": "/Alina-Gilmutdinova/netology-train-diplom/static/media/image_logo1.534b2b99ec1df995a44c.png",
-    "static/media/mask_group.png": "/Alina-Gilmutdinova/netology-train-diplom/static/media/mask_group.123139ac9016ca7e5f4e.png",
-    "static/media/image_logo2.png": "/Alina-Gilmutdinova/netology-train-diplom/static/media/image_logo2.9270e42c3fac5cff9087.png",
-    "static/media/review_icon2.png": "/Alina-Gilmutdinova/netology-train-diplom/static/media/review_icon2.d244fa30cdb26dc440f2.png",
-    "static/media/review_icon1.png": "/Alina-Gilmutdinova/netology-train-diplom/static/media/review_icon1.a3e8d17509da4fad5e5d.png",
-    "static/media/preloader_animation.gif": "/Alina-Gilmutdinova/netology-train-diplom/static/media/preloader_animation.4e2e699c349a7e5f3147.gif",
-    "static/media/favicon.ico": "/Alina-Gilmutdinova/netology-train-diplom/static/media/favicon.d230a94d489b45599a8a.ico",
-    "index.html": "/Alina-Gilmutdinova/netology-train-diplom/index.html",
-    "main.8f00a9b9.css.map": "/Alina-Gilmutdinova/netology-train-diplom/static/css/main.8f00a9b9.css.map",
-    "main.268a5f5c.js.map": "/Alina-Gilmutdinova/netology-train-diplom/static/js/main.268a5f5c.js.map"
+    "main.css": "/netology-train-diplom/static/css/main.ce29e236.css",
+    "main.js": "/netology-train-diplom/static/js/main.22627a12.js",
+    "static/media/image_logo_final_order.png": "/netology-train-diplom/static/media/image_logo_final_order.7d2d24204fae0efe3c71.png",
+    "static/media/image_logo1.png": "/netology-train-diplom/static/media/image_logo1.534b2b99ec1df995a44c.png",
+    "static/media/mask_group.png": "/netology-train-diplom/static/media/mask_group.123139ac9016ca7e5f4e.png",
+    "static/media/image_logo2.png": "/netology-train-diplom/static/media/image_logo2.9270e42c3fac5cff9087.png",
+    "static/media/review_icon2.png": "/netology-train-diplom/static/media/review_icon2.d244fa30cdb26dc440f2.png",
+    "static/media/review_icon1.png": "/netology-train-diplom/static/media/review_icon1.a3e8d17509da4fad5e5d.png",
+    "static/media/preloader_animation.gif": "/netology-train-diplom/static/media/preloader_animation.4e2e699c349a7e5f3147.gif",
+    "static/media/favicon.ico": "/netology-train-diplom/static/media/favicon.d230a94d489b45599a8a.ico",
+    "index.html": "/netology-train-diplom/index.html",
+    "main.ce29e236.css.map": "/netology-train-diplom/static/css/main.ce29e236.css.map",
+    "main.22627a12.js.map": "/netology-train-diplom/static/js/main.22627a12.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f00a9b9.css",
-    "static/js/main.268a5f5c.js"
+    "static/css/main.ce29e236.css",
+    "static/js/main.22627a12.js"
   ]
 }
